@@ -1,2 +1,2 @@
-##Php project
-#simple register+login page
+#Php project
+
